@@ -41,8 +41,8 @@ pip install -r requirements.txt
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/I-Deepanshu.git
-   cd DAY10-GRU-Networks
+   git clone https://github.com/I-Deepanshu/30-Days-Deep-Learning/tree/main/DAY10
+   cd DAY10
    ```
 
 2. Install dependencies:
