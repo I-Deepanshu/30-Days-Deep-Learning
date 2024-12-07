@@ -28,13 +28,7 @@ This notebook covers:
 
 ---
 
-## 🛠️ Setup Instructions  
-
-### Clone the Repository  
-```bash  
-git clone https://github.com/I-Deepanshu/30-Days-Deep-Learning.git  
-cd 30-Days-Deep-Learning/DAY11  
-```  
+## 🛠️ Setup Instructions   
 
 ### Install Dependencies  
 
