@@ -134,7 +134,7 @@ The results are visualized in bar and line graphs for clarity.
 
 ## 📂 Repository Link  
 
-Access the complete notebook on GitHub: [Day 11 Notebook](https://github.com/I-Deepanshu/30-Days-Deep-Learning/tree/main/DAY11).  
+Access the complete notebook on GitHub: [Day 11 Notebook](https://github.com/I-Deepanshu/30-Days-Deep-Learning/blob/main/DAY11/DAY11.ipynb).  
 
 ---
 
