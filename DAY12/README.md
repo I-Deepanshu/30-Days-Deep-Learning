@@ -70,9 +70,6 @@ jupyter notebook DAY12.ipynb
 | TensorFlow       | 99.1%            | 98.7%               | ~1.2 minutes              |
 | PyTorch          | 98.9%            | 98.6%               | ~1.4 minutes              |
 
-### **Sample Output Plots**
-#### TensorFlow Accuracy Plot:
-![Accuracy Plot](https://via.placeholder.com/800x400?text=Sample+Accuracy+Plot)
 
 ---
 
