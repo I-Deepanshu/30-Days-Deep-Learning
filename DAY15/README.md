@@ -113,7 +113,7 @@ DAY15/
 ## 📬 Contact
 
 If you have any questions or feedback, feel free to reach out:
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/deepanshu-shimar-704633256/)
 - GitHub: [Your GitHub Profile](https://github.com/I-Deepanshu)
 
 ---
