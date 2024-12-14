@@ -89,12 +89,6 @@ pip install -r requirements.txt
 
 ---
 
-### **Graphical Representation**  
-
-![Model Architecture](output/model_architecture.png)  
-*Visual representation of the VGG16 architecture used in the experiment.*  
-
----
 
 ### **Contributing**  
 
