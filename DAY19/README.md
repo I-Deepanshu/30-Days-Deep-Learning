@@ -97,8 +97,7 @@ reinforcement-learning-cartpole/
 ### **Training Performance**  
 
 The trained agent achieves near-optimal performance, balancing the pole for the maximum reward of 500 in most episodes.  
-
-![Training Performance Plot](results/training_rewards_plot.png)  
+ 
 
 ### **Testing Performance**  
 
